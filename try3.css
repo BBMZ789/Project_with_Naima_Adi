@@ -1,0 +1,380 @@
+body {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+    }
+  .container{
+    width: 100%;
+    height: 4500px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    background: #FCDF6C;
+}
+img{
+    background-repeat: no-repeat;
+    background-attachment: right;
+    background-size: inherit;
+}
+.green-text{
+    position: relative;
+    text-align: right;
+    color:black
+}
+.greeitem{
+    width: 1000px;
+}
+  header {
+    width: 100%;
+    height: 157px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    /*background-color: rgba(180, 181, 193,0.7099999785423279);*/
+    background: #FCDF6C;
+}
+  .logo {
+    width: 166px;
+    color: rgba(186,90,165,1);
+    position: absolute;
+    font-family: Rowdies;
+    font-size: 52px;
+    opacity: 1;
+    text-align: left;
+    left:10px;
+  }
+  .cart{
+    width: 77px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 10px;
+    left: 1310px;
+    font-family: Rowdies;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .links{
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 58px;
+    width:120px;
+    font-family: Quicksand;
+    font-size: 18px;
+    text-align: center;
+  }
+  #missionLink {
+    left: 1010px;
+  }
+  #infolinks {
+    left: 1150px;
+  }
+  #product {
+    left: 870px;
+  }
+  #cart{
+    width: 80px;
+    position: absolute;
+    top:0;
+    left: 1260px;
+    font-family: Rowdies;
+    font-size: 48px;
+  }
+
+  #welcome {
+    width: 1000px;
+    color: rgba(186,90,165,1);
+    font-family: Rowdies;
+    font-weight: Bold;
+    font-size: 100px;
+    text-align: center;
+    top: 275px;
+    left: 171px;
+    position: absolute;
+  }
+  .title{
+    width: 754px;
+    color: rgba(186,90,165,1);
+    font-family: Rowdies;
+    font-weight: Bold;
+    font-size: 48px;
+    text-align: left;
+    top: 1000px;
+    left: 324px;
+    text-align: left;
+    position: absolute;
+  }
+  #welcome{
+    top: 275px;
+    left: 171px;
+  }
+  #choose{
+    top: 1650px;
+    left: 135px;
+  }
+  #buy {
+    top: 3000px;
+    left: 135px;
+  }
+  #mission{
+    left: 135px;
+  }
+  .slidebox {
+    width: 100%;
+    height: 750px;
+    position: absolute;
+    top: 1938px;
+    left: 73px;
+    overflow: hidden;
+    
+  }
+  #r3 {
+    width: 350px;
+    height: 300px;
+    background: url("Project Scooter/Scooter R3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 116px;
+    left: 980px;
+    border: 5px solid#7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+    overflow: hidden;
+  }
+  #r5 {
+    width: 350px;
+    height: 300px;
+    background: url("Project Scooter/ScooterR5.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 116px;
+    left: 0px;
+    border: 5px solid #7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+    overflow: hidden;
+  }
+  #r6 {
+    width: 400px;
+    height: 385px;
+    background: url("Project Scooter/Scooter R6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 57px;
+    left: 165px;
+    border: 5px solid #7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+    overflow: hidden;
+}
+  #r2 {
+    width: 400px;
+    height: 385px;
+    background: url("Project Scooter/Scooter R2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 57px;
+    left: 782px;
+    border: 5px solid #7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+    overflow: hidden;
+  }
+  #r1 {
+    width: 600px;
+    height: 550px;
+    background: url("Project Scooter/Scooter R1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    left: 380px;
+    border: 6px solid #7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+    overflow: hidden;
+  }
+  .preisbtn {
+    width: 500px;
+    height: 75px;
+    position: absolute;
+    top: 600px;
+    left: 421px;
+  }
+  .showbtn {
+    width: 493px;
+    height: 68px;
+    background: #7478d7;
+    position: absolute;
+    opacity: 1;
+    top: 0;
+    left: 0;
+    border: 3px solid #7478d7;
+    border-top-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-bottom-right-radius: 67px;
+  }
+  .pricetag {
+    width: 328px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 6px;
+    left: 81px;
+    font-family: Quicksand;
+    font-size: 36px;
+    text-align: center;
+  }
+  footer {
+    width: 100%;
+    height: 311px;
+    position: absolute;
+    top: 4189px;
+    left: 0px;
+    overflow: hidden;
+    background-color: #FCDF6C;
+  }
+  .footer_title{
+    width: 100px;
+    color: rgba(0,0,0,1);
+    top: 23px;
+    font-family: Quicksand;
+    font-size: 24px;
+    text-align: left;
+    position: absolute;
+  }
+  #about_title {
+    position: absolute;
+    left: 550px;
+    font-weight: bold;
+    top:4250px;
+  }
+  .about{
+    width: 150px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    left: 550px;
+    font-family: Quicksand;
+    font-size: 20px;
+    text-align: left
+}
+  #terms {
+    top: 75px;
+  }
+  #priv_pol {
+    top: 115px;
+  }
+  #impressum {
+    top: 150px;
+  }
+  #cont_title {
+    left: 735px;
+    font-weight: bold;
+  }
+  .contact{
+    width: 150px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    left: 735px;
+    font-family: Quicksand;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  #feedb {
+    top: 75px;
+  }
+  #tel {
+    top: 115px;
+  }
+  #adress {
+    top: 150px;
+  }
+  #city{
+      top:180px;
+  }
+  #faq_title {
+    left: 900px;
+    font-weight: bold;
+  }
+  .faq{
+    color: rgba(0,0,0,1);
+    position: absolute;
+    left: 900px;
+    font-family: Quicksand;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  #ship_pol {
+    width: 190px;
+    top: 75px;
+  }
+  #sales {
+    width: 150px;
+    top: 115px;
+  }
+  #ref_pol {
+    width: 150px;
+    top: 150px;
+  }
+  #prod_inf {
+    width: 213px;
+    top: 180px;
+  }
+  #soc_med {
+    width: 150px;
+    top: 23px;
+    left: 1228px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+  }
+  #copy {
+    width: 238px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    bottom: 200px;
+    left: 10px;
+    font-family: Quicksand;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+  }
+  #pay_form {
+    width: 241px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 4450px;
+    left: 550px;
+    font-family: Quicksand;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 1;
+    text-align: left;
+  }
